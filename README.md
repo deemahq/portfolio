@@ -11,7 +11,7 @@ I’m currently completing prerequisite coursework for the UIUC Master’s in Da
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Hospital Lab Turnaround Time](./hospital-lab-tat) | Analyzed hospital lab data to find process inefficiencies and improve turnaround time. | Python (pandas, matplotlib) |
+| [Hospital Lab Turnaround Time](./hospital_lab_tat) | Analyzed hospital lab data to find process inefficiencies and improve turnaround time. | Python (pandas, matplotlib) |
 | [Chicago Health Data Explorer](./chicago-health-data) | Explored city-level health metrics and visualized demographic correlations. | R, ggplot2, Tableau |
 | [Google Data Analytics Capstone](./certificate-projects) | Completed applied analytics projects using real-world datasets. | SQL, R, Excel, Tableau |
 
