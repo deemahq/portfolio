@@ -13,7 +13,7 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 
 ## Dataset
 - **Source:** Simulated hospital lab data (1,000 samples)
-- **Columns:** `test_type`, `received_time`, `completed_time`, `technician_id`, 'result_flag', 'department', and 'priority'
+- **Columns:** `test_type`, `received_time`, `completed_time`, `technician_id`, `result_flag`, `department`, and `priority`
 
 
 ---
