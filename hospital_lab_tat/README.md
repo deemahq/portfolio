@@ -1,4 +1,4 @@
-# Hospital Lab Turnaround Time Analysis
+## Hospital Lab Turnaround Time Analysis
 
 This project explores patterns in turnaround times for hospital lab tests  using a synthetic intermediate dataset. The goal is to identify differences in turnaround time by test type, department, priority, and result flag.
 ---
