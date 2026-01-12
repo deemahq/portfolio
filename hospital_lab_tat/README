@@ -46,8 +46,9 @@ Normal      2.004834
 Name: turnaround_hours, dtype: float64
 ---
 
-## 📈 Visuals
+## Visuals
 ![All TAT](hospital_lab_tat/visuals/All TAT.png)
+![TAT by Department](hospital_lab_tat/visuals/TAT by Dept.png)
 
 ---
 
