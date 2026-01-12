@@ -24,33 +24,45 @@ This project explores patterns in turnaround times for hospital lab tests  using
 ---
 
 ## Results
-- Mean TAT (hours) by test type
-  - Microbiology    1.946775
-  - Immunology      1.969776
-  - Hematology      2.030214
-  - Chemistry       2.043625
 
-- Mean TAT by department
-  - ER            1.970629
-  - ICU           1.973085
-  - Inpatient     1.982991
-  - Outpatient    2.068906
+### Turnaround Time by Test Type
+Average turnaround times varied slightly by test type. Microbiology (1.95 hrs)
+and immunology (1.97 hrs) tests showed marginally shorter average turnaround
+times than hematology (2.03 hrs) and chemistry (2.04 hrs).
 
-- Mean TAT by priority:
-  - Routine    2.003306
-  - STAT       1.984185
+![Turnaround Time by Test Type](visuals/TAT_by_Type.png)
 
-- Mean TAT by result flag:
-  - Abnormal    1.970255
-  - Normal      2.004834
 ---
 
-## Visuals
-![All TAT](visuals/All_TAT.png)
-![TAT by Dept](visuals/TAT_by_Dept.png)
-![TAT by Priority](visuals/TAT_by_Priority.png)
-![TAT by Result](visuals/TAT_by_Result.png)
-![TAT by Type](visuals/TAT_by_Type.png)
+### Turnaround Time by Department
+Outpatient tests had the highest average turnaround time (2.07 hrs), while ER
+and ICU tests were processed slightly more quickly.
+
+![Turnaround Time by Department](visuals/TAT_by_Dept.png)
+
+---
+
+### Turnaround Time by Priority
+STAT tests had a slightly shorter average turnaround time (1.98 hrs) compared
+to routine tests (2.00 hrs).
+
+![Turnaround Time by Priority](visuals/TAT_by_Priority.png)
+
+---
+
+### Turnaround Time by Result Flag
+Tests with abnormal results had a slightly shorter average turnaround time
+(1.97 hrs) than tests with normal results (2.00 hrs).
+
+![Turnaround Time by Result Flag](visuals/TAT_by_Result.png)
+
+
+---
+### Overall Turnaround Time Distribution
+Most lab tests were completed within approximately 2 hours, with a right-skewed
+distribution indicating occasional delays.
+
+![Overall Turnaround Time](visuals/All_TAT.png)
 
 ---
 
