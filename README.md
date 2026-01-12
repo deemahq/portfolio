@@ -3,7 +3,7 @@
 Welcome! I’m transitioning from a biology background to data science.  
 This portfolio showcases projects that highlight my growth in analytics, coding, and data visualization.
 
-I’m currently completing prerequisite coursework for the UIUC Master’s in Data Science, with interests in healthcare analytics, data storytelling, and statistical modeling.
+I’m currently completing prerequisite coursework for a Master’s in Data Science, with interests in healthcare analytics and statistical modeling.
 
 ---
 
