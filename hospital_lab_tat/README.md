@@ -47,7 +47,10 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 
 ## Visuals
 ![All TAT](visuals/All_TAT.png)
-
+![TAT by Dept](visuals/TAT_by_Dept.png)
+![TAT by Priority](visuals/TAT_by_Priority.png)
+![TAT by Result](visuals/TAT_by_Result.png)
+![TAT by Type](visuals/TAT_by_Type.png)
 
 ---
 
