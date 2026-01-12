@@ -24,11 +24,11 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 ---
 
 ## Results
-- Mean TAT  by test type: 
-- Microbiology    1.946775
-- Immunology      1.969776
-- Hematology      2.030214
-- Chemistry       2.043625
+- Mean TAT  by test type:
+  - Microbiology    1.946775
+  - Immunology      1.969776
+  - Hematology      2.030214
+  - Chemistry       2.043625
 
 - Mean TAT by department
 ER            1.970629
