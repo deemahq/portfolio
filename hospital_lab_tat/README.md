@@ -1,7 +1,6 @@
 # Hospital Lab Turnaround Time Analysis
 
-This project analyzes laboratory test turnaround times (TAT) from a hospital lab to identify delays and process inefficiencies.
-
+This project explores patterns in turnaround times for hospital lab tests  using a synthetic intermediate dataset. The goal is to identify differences in turnaround time by test type, department, priority, and result flag.
 ---
 
 ## Objectives
