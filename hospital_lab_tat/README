@@ -13,22 +13,37 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 
 ## Dataset
 - **Source:** Simulated hospital lab data (1,000 samples)
-- **Columns:** `test_type`, `received_time`, `completed_time`, `technician_id`
+- **Columns:** `test_type`, `received_time`, `completed_time`, `technician_id`, 'result_flag', 'department', and 'priority'
+
 
 ---
 
 ## Methods
 1. Parsed timestamps and calculated duration (`completed - received`).
-2. Grouped by test type and visualized turnaround times.
-3. Flagged any tests exceeding 90th percentile as potential delays.
-
+2. Grouped by test type, department, priority, and result flag and visualized turnaround times.
 ---
 
 ## Results
-- Mean TAT for *Blood Chemistry* tests: **2.1 hrs**
-- Mean TAT for *Microbiology* tests: **5.6 hrs**
-- Identified a batch process bottleneck between 10 AM–1 PM.
+- Mean TAT  by test type: 
+Microbiology    1.946775
+Immunology      1.969776
+Hematology      2.030214
+Chemistry       2.043625
 
+- Mean TAT by department
+ER            1.970629
+ICU           1.973085
+Inpatient     1.982991
+Outpatient    2.068906
+
+- Mean TAT by priority:
+Routine    2.003306
+STAT       1.984185
+
+- Mean TAT by result flag:
+Abnormal    1.970255
+Normal      2.004834
+Name: turnaround_hours, dtype: float64
 ---
 
 ## 📈 Visuals
@@ -40,9 +55,3 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 - Excel (data validation)
-
----
-
-## 💡 Next Steps
-- Build an interactive Tableau dashboard.
-- Incorporate real hospital lab metrics once available.
