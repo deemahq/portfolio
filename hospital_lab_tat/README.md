@@ -24,31 +24,29 @@ This project analyzes laboratory test turnaround times (TAT) from a hospital lab
 ---
 
 ## Results
-- Mean TAT  by test type:
+- Mean TAT (hours) by test type
   - Microbiology    1.946775
   - Immunology      1.969776
   - Hematology      2.030214
   - Chemistry       2.043625
 
 - Mean TAT by department
-ER            1.970629
-ICU           1.973085
-Inpatient     1.982991
-Outpatient    2.068906
+  - ER            1.970629
+  - ICU           1.973085
+  - Inpatient     1.982991
+  - Outpatient    2.068906
 
 - Mean TAT by priority:
-Routine    2.003306
-STAT       1.984185
+  - Routine    2.003306
+  - STAT       1.984185
 
 - Mean TAT by result flag:
-Abnormal    1.970255
-Normal      2.004834
-Name: turnaround_hours, dtype: float64
+  - Abnormal    1.970255
+  - Normal      2.004834
 ---
 
 ## Visuals
-![All TAT](hospital_lab_tat/visuals/All TAT.png)
-![TAT by Department](hospital_lab_tat/visuals/TAT by Dept.png)
+![Alt text](results/turnaround_by_result_flag.png)
 
 ---
 
