@@ -12,7 +12,7 @@ I’m currently completing prerequisite coursework for a Master’s in Data Scie
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [Hospital Lab Turnaround Time](./hospital_lab_tat) | Analyzed hospital lab data to find process inefficiencies and improve turnaround time. | Python (pandas, matplotlib) |
-| [Chicago Health Data Explorer](./chicago-health-data) | Explored city-level health metrics and visualized demographic correlations. | R, ggplot2, Tableau |
+| [Chicago Health Data Explorer](./chicago-health-data) | Explored city-level health metrics and visualized demographic correlations. Specific Question: How do chronic disease rates vary across Chicago community areas with different income levels and demographic characteristics? | R, ggplot2, Tableau |
 | [Google Data Analytics Capstone](./certificate-projects) | Completed applied analytics projects using real-world datasets. | SQL, R, Excel, Tableau |
 
 ---
