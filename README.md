@@ -31,9 +31,3 @@ population-level data analysis.
 - **Other:** Excel, GitHub, data storytelling
 
 ---
-
-## Notes
-
-This portfolio emphasizes clear analytical reasoning, responsible interpretation
-of results, and practical applications in healthcare and public health.
-Additional tools and methods will be incorporated as projects progress.
