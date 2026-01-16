@@ -1,9 +1,13 @@
 # Data Science Portfolio
 
-Welcome! I’m transitioning from a biology background to data science.  
-This portfolio showcases projects that highlight my growth in analytics, coding, and data visualization.
+Welcome! I’m transitioning from a biology background into data science.
+This portfolio showcases projects that demonstrate my development in data
+analysis, coding, and applied problem-solving, with a focus on healthcare
+and public health applications.
 
-I’m currently completing prerequisite coursework for a Master’s in Data Science, with interests in healthcare analytics and statistical modeling.
+I am currently completing prerequisite coursework in preparation for a
+Master’s in Data Science, with interests in healthcare analytics and
+population-level data analysis.
 
 ---
 
@@ -11,16 +15,25 @@ I’m currently completing prerequisite coursework for a Master’s in Data Scie
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| [Hospital Lab Turnaround Time](./hospital_lab_tat) | Analyzed hospital lab data to find process inefficiencies and improve turnaround time. | Python (pandas, matplotlib) |
-| [Chicago Health Data Explorer](./chicago-health-data) | Explored city-level health metrics and visualized demographic correlations. Specific Question: How do chronic disease rates vary across Chicago community areas with different income levels and demographic characteristics? | R, ggplot2, Tableau |
-| [Google Data Analytics Capstone](./certificate-projects) | Completed applied analytics projects using real-world datasets. | SQL, R, Excel, Tableau |
+| [Hospital Lab Turnaround Time Analysis](./hospital_lab_tat) | Analyzed simulated hospital laboratory data to examine turnaround times by test type, department, priority, and result status. Focused on exploratory data analysis, careful interpretation, and operational insights. | Python (pandas, matplotlib), Jupyter Notebook |
+| [Chicago Chronic Disease Hospitalization Disparities](./chicago_health_disparities) | Examines geographic variation in asthma and diabetes hospitalizations across Chicago ZIP codes, with contextual discussion using neighborhood-level socioeconomic hardship indicators. Analysis is descriptive and associative. | Python (pandas, matplotlib), Jupyter Notebook |
+<!--
+| [Google Data Analytics Capstone](./certificate-projects) | Applied analytics projects completed as part of the Google Data Analytics Certificate, including data cleaning, querying, and visualization using real-world datasets. | SQL, Excel, R (introductory), Tableau |
+-->
 
 ---
 
 ## Tools and Skills
-- **Programming:** Python, R, SQL  
-- **Visualization:** Tableau, Matplotlib, ggplot2  
-- **Statistics:** Hypothesis testing, regression, data cleaning  
-- **Other:** Excel, GitHub, data storytelling  
+
+- **Programming & Analysis:** Python (pandas), SQL  
+- **Visualization:** Matplotlib; introductory experience with Tableau  
+- **Statistics & Methods:** Exploratory data analysis, data cleaning, descriptive statistics  
+- **Other:** Excel, GitHub, data storytelling
 
 ---
+
+## Notes
+
+This portfolio emphasizes clear analytical reasoning, responsible interpretation
+of results, and practical applications in healthcare and public health.
+Additional tools and methods will be incorporated as projects progress.
