@@ -26,7 +26,7 @@ population-level data analysis.
 ## Tools and Skills
 
 - **Programming & Analysis:** Python (pandas), SQL  
-- **Visualization:** Matplotlib; introductory experience with Tableau  
+- **Visualization:** Matplotlib 
 - **Statistics & Methods:** Exploratory data analysis, data cleaning, descriptive statistics  
 - **Other:** Excel, GitHub, data storytelling
 
