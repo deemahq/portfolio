@@ -16,7 +16,7 @@ population-level data analysis.
 | Project | Description | Tools |
 |----------|--------------|-------|
 | [Hospital Lab Turnaround Time Analysis](./hospital_lab_tat) | Analyzed simulated hospital laboratory data to examine turnaround times by test type, department, priority, and result status. Focused on exploratory data analysis, careful interpretation, and operational insights. | Python (pandas, matplotlib), Jupyter Notebook |
-| [Chicago Chronic Disease Hospitalization Disparities](./chicago_health_disparities) | Examines geographic variation in asthma and diabetes hospitalizations across Chicago ZIP codes, with contextual discussion using neighborhood-level socioeconomic hardship indicators. Analysis is descriptive and associative. | Python (pandas, matplotlib), Jupyter Notebook |
+| [Chicago Health Disparities](./chicago-health-data) | Analyzed geographic disparities in asthma and diabetes hospitalizations across Chicago and contextualized results using a socioeconomic hardship index. | Python (pandas, matplotlib) |
 <!--
 | [Google Data Analytics Capstone](./certificate-projects) | Applied analytics projects completed as part of the Google Data Analytics Certificate, including data cleaning, querying, and visualization using real-world datasets. | SQL, Excel, R (introductory), Tableau |
 -->
